@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chou</string>
+    <string name="word">word</string>
+    <string name="meaning">meaning</string>
+    <string name="meaning_image">meaning image</string>
+    <string name="done">done</string>
+    <string name="_30">0</string>
+    <string name="levelz">levelz</string>
+    <string name="skip">Skip</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="score">score</string>
+    <string name="dragon">龟</string>
+    <string name="sound">sound</string>
+    <string name="today_s_score">Today\'s Score</string>
+    <string name="high_score">High Score</string>
+    <string name="new_high_score">New daily high score</string>
+    <string name="image_of_cute_smiling_turtle_cartoon">image of cute smiling turtle cartoon</string>
+</resources>

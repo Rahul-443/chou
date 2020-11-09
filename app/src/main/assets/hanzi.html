@@ -1,0 +1,48 @@
+<html>
+
+<head>
+    <title></title>
+
+</head>
+<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0">
+
+<div id="target"></div>
+
+<script type="text/javascript" src="hanzi-writer.js"></script>
+<script type="text/javascript">
+
+    var zhi = null;
+
+    zhi = Android.zi();
+
+    var writer = HanziWriter.create('target', zhi, {
+
+    width: 264,
+    height: 264
+
+    });
+
+    zhay = Android.getShushi();
+
+    if(zhay == null) {
+
+    writer.animateCharacter();
+
+    } else if (zhay == "shushi") {
+
+    writer.quiz({
+    onComplete: function(summaryData) {
+
+    console.log('amazing');
+    console.log(summaryData.totalMistakes + ' mistakes here');
+    Android.zhayaiyo(zhay);
+
+    }
+    });
+
+    }
+
+    </script>
+</body>
+
+</html>
