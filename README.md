@@ -12,4 +12,5 @@ Todo :
 2) character learning by visual images
 3) and much more...
 
-       
+You can find Android app on playstore from here👇
+https://play.google.com/store/apps/details?id=com.tron.chou
