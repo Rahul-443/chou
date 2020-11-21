@@ -10,7 +10,8 @@ https://github.com/chanind/hanzi-writer
 Todo : 
 1) Statements writing
 2) character learning by visual images
-3) and much more...
+3) to be moved to kotlin shortly
+4) and much more...
 
 You can find Android app on playstore from here👇
 https://play.google.com/store/apps/details?id=com.tron.chou
